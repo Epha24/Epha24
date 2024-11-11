@@ -6,7 +6,7 @@
 - <b>Student Clearance Management System</b>
   - [Clearance Management System](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Multi-Service Management System</b>
-  - [Multi-Service Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Epha24/MS.git)) <b><i>(Potentially NSFW)</b></i>
+  - [Multi-Service Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Epha24/MS.git))
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
