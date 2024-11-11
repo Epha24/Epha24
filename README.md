@@ -4,7 +4,7 @@
 <h2>👨‍💻 PHP Projects:</h2>
 
 - <b>Student Clearance Management System</b>
-  - [Clearance Management System]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Epha24/SCMS.git))
+  - [Clearance Management System](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Epha24/SCMS.git))
 - <b>Multi-Service Management System</b>
   - [Multi-Service Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Epha24/MS.git))
 
