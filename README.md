@@ -4,16 +4,18 @@
 <h2>👨‍💻 PHP Projects:</h2>
 
 - <b>Student Clearance Management System</b>
-  - [Clearance Management System](https://github.com/Epha24/SCMS))
-- <b>Multi-Service Management System</b>
-  - [Multi-Service Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Epha24/MS.git))
+  - [Clearance Management System](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Multi Service Management System</b>
+  - [Multi-Service Management System](https://github.com/Epha24/MS)
+- <b>Drug Store Management System</b>
+  - [Drug Store Management System](https://github.com/Epha24/DSMS)
+- <b>Medical Appointment Booking System</b>
+  - [Medical Appointment Booking System](https://github.com/Epha24/OMABS)
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>👨‍💻 Python</h2>
+
+- <b>Library Management System</b>
+  - [Library Management System](https://github.com/Epha24/LMS)
 
 <h2> 🤳 Connect with me:</h2>
 
