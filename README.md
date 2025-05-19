@@ -6,7 +6,7 @@
 - <b>Online Job Portal</b>
   - [Job Portal](https://yegnasira.com)
 - <b>Online Bingo Game</b>
-  - [Job Portal](https://bayrabingo.com)
+  - [Bingo Game](https://bayrabingo.com)
 - <b>Student Clearance Management System</b>
   - [Clearance Management System](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Multi Service Management System</b>
